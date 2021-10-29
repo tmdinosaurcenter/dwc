@@ -1,5 +1,4 @@
 preserve_hierarchy: true
-
 files:
   - source: /build/terms.tmpl
     translation: /build/%file_name%.%locale%.tmpl
