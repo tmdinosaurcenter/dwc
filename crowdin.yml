@@ -4,7 +4,7 @@ files:
   - source: /build/terms.tmpl
     translation: /build/%file_name%.%locale%.tmpl
     dest: /build/%file_name%.md
-    type: md
+    type: fm_md
     languages_mapping:
       locale:
         ar: ar
